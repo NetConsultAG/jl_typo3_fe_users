@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<T3locallang>
+	<meta type="array">
+		<type>database</type>
+		<description>Language labels for database tables/fields belonging to extension 'jl_typo3_fe_users'</description>
+	</meta>
+	<data type="array">
+		<languageKey index="default" type="array">
+			<label index="fe_users.cnum">Lehrbetriebsnummer:</label>
+			<label index="fe_users.city">Ort:</label>
+			<label index="fe_users.email">E-Mail-Adresse:</label>
+			<label index="fe_users.www">Website:</label>
+			<label index="fe_users.title">Funktion:</label>
+			<label index="fe_users.company">Institution:</label>
+		</languageKey>
+		<languageKey index="de" type="array">
+			<label index="fe_users.cnum">Lehrbetriebsnummer:</label>
+			<label index="fe_users.city">Ort:</label>
+			<label index="fe_users.email">E-Mail-Adresse:</label>
+			<label index="fe_users.www">Website:</label>
+			<label index="fe_users.title">Funktion:</label>
+			<label index="fe_users.company">Institution:</label>
+		</languageKey>
+	</data>
+</T3locallang>
